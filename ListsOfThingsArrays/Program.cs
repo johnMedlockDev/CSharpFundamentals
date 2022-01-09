@@ -49,7 +49,7 @@ namespace ListsOfThingsArrays
             // say we wanted to change the first value of the intArray to 7.
             intArray[0] = 7;
 
-            Console.WriteLine(firstValueInIntArray);
+            Console.WriteLine(intArray[0]);
 
             // You can also have arrays of arrays.
             // There are two types multidimensional arrays.
