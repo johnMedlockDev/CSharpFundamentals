@@ -134,6 +134,13 @@ namespace LoopsAdditionalLoopingStatements
 
           #endregion DoWhileLoops
 
+          
+          // So to recap:
+          // foreach loops are better if you don't need access to several specific indexes.
+          // for loops are better if you need access to several specific indexes.
+          // while loops are better if you don't know how long you want something to run.
+          // do while loop are better if you don't know how long you want something to run and you want it to run at least once.
+          
         }
     }
 }
