@@ -60,7 +60,6 @@ namespace WorkingWIthStringFunctions
             Console.WriteLine(wordWithoutSpaces);
             
             // IndexOf = Returns the index of the first occurrence of a value passed in.
-
             int indexOf = wordWithSpaces.IndexOf('d');
             Console.WriteLine(indexOf);
 
